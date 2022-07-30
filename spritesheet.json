@@ -1,0 +1,25 @@
+{
+	"meta": {
+		"image": "spritesheet.png",
+		"size": {"w":512,"h":128},
+		"scale": "1"
+	},
+	"frames": {
+		"sprite_baboonMonk_strip8.png":
+		{
+			"frame": {"x":0,"y":0,"w":512,"h":64},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":512,"h":64},
+			"sourceSize": {"w":512,"h":64}
+		},
+		"sprite_baboonMonkJump.png":
+		{
+			"frame": {"x":0,"y":64,"w":64,"h":64},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
+			"sourceSize": {"w":64,"h":64}
+		}
+	}
+}
